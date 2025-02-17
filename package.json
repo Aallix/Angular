@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aallix/Angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aallix/Angular/issues"
+  },
+  "homepage": "https://github.com/Aallix/Angular#readme",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
